@@ -1,6 +1,6 @@
 # pytorch-a3c
 
-다음은 비동기적 어드밴티지 액터 크리틱(A3C: Asynchronous Advantage Actor Critic)의 파이토치 버입니다. ["Asynchronous Methods for Deep Reinforcement Learning"](https://arxiv.org/pdf/1602.01783v1.pdf).
+다음은 비동기적 어드밴티지 액터 크리틱(A3C: Asynchronous Advantage Actor Critic)의 파이토치 버전입니다. ["Asynchronous Methods for Deep Reinforcement Learning"](https://arxiv.org/pdf/1602.01783v1.pdf).
 
 이 구현은 [Universe Starter Agent](https://github.com/openai/universe-starter-agent) 를 기반으로 만들어졌습니다.
 위 구현과 다르게 논문에서 처럼 공유 된 통계를 가진 옵티마이저를 사용합니다.
