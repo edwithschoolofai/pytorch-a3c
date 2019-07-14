@@ -2,8 +2,8 @@
 
 다음은 비동기적 어드밴티지 액터 크리틱(A3C: Asynchronous Advantage Actor Critic)의 파이토치 버전입니다. 참고: ["Asynchronous Methods for Deep Reinforcement Learning"](https://arxiv.org/pdf/1602.01783v1.pdf).
 
-이는 [Universe Starter Agent](https://github.com/openai/universe-starter-agent)에 영감을 받아 구현되었습니다.
-Universe Starter Agent와는 다르게 논문에서 처럼 공유 통계치를 가진 옵티마이저를 사용합니다.
+이는 [Universe Starter Agent](https://github.com/openai/universe-starter-agent)에서 영감을 받아 구현되었습니다.
+여기서는 Universe Starter Agent와는 다르게 논문에서 처럼 공유 통계치를 가진 옵티마이저를 사용합니다.
 
 이 저장소를 인용하시려면 다음 bibtex 형식을 사용해주세요:
 
